@@ -11,4 +11,4 @@ Official implementation of the ICCV 2023 paper. Code is coming soon!
 
 ## Framework overview
 
-<img src="resources/borlan_framework.png" width=100% height=100%>
+<img src="borlan_framework.png" width=100% height=100%>
