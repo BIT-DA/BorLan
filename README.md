@@ -12,3 +12,9 @@ Official implementation of the ICCV 2023 paper. Code is coming soon!
 ## Framework overview
 
 <img src="borlan_framework.png" width=100% height=100%>
+
+## Contact
+
+If you have any questions about our paper, feel free to contact us.
+
+Email address: wenxuanma@bit.edu.cn
