@@ -19,7 +19,7 @@ BorLan is a simple data-efficient learning paradigm that includes three parts:
 3. Distribution alignment loss that leverages text embedding space to promote data-efficient visual training.
 
 
-<img src="D:\CV\work\lagim\BorLan_new\resources\borlan_paradigm.png" width=100% height=100%>
+<img src="resources\borlan_paradigm.png" width=100% height=100%>
 
 ## Training 
 
