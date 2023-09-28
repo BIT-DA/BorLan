@@ -1,8 +1,6 @@
 ---
 
-<div align="center">    
-<div align="center">    
-
+<div align="center">      
 
 # Borrowing Knowledge From Pre-trained Language Model: A New Data-efficient Visual Learning Paradigm
 
